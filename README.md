@@ -1,10 +1,9 @@
-# ? 
+Recriando página Instagram Digital Innovation One
 
-Repositório de Flexbox, criando a interface de login do Instagram! 🙃
+Recriando a página do Insta!!!🙃
+Esse é o repositório de Flexbox, fazendo a interface de login do Instagram!
 
-### Os requisitos são:
-
-* [HTML básico]
-* [CSS básico]
-
-## 🚀 Let's code! 🚀
+Os requisitos são:
+HTML básico
+CSS básico
+🚀 Let's code! 🚀
